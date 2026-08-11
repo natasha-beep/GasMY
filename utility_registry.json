@@ -1,0 +1,50 @@
+[
+  {
+    "utility": "Electricity",
+    "status": "Working / verified evidence",
+    "badge": "amber",
+    "existing": "TNB billing repository; utility-power parcels; HIVE 5 11 kV supply and measured chiller electrical data.",
+    "planning": "Confirm park-wide demand, grid capacity, phasing, resilience and interconnection requirements.",
+    "confidence": "Partial \u2014 park-wide demand still requires confirmation."
+  },
+  {
+    "utility": "Water",
+    "status": "Existing evidence",
+    "badge": "green",
+    "existing": "Water technical drawings plus tank, suction-tank and pump-house parcels in the 2026 land data.",
+    "planning": "Map connections to future development parcels and validate consumption/capacity where required.",
+    "confidence": "Infrastructure strong; consumption data partial."
+  },
+  {
+    "utility": "Telecommunications",
+    "status": "Existing evidence",
+    "badge": "green",
+    "existing": "Telecom layout drawings, TELCO infrastructure parcel and Telekom Malaysia parcels/tenancy records.",
+    "planning": "Confirm expansion requirements for new development parcels and high-demand tenants.",
+    "confidence": "Strong."
+  },
+  {
+    "utility": "Sewerage",
+    "status": "Existing evidence",
+    "badge": "green",
+    "existing": "Sewerage technical documentation and a sewerage pump-house parcel in the 2026 land data.",
+    "planning": "Confirm capacity and connection requirements against development phasing.",
+    "confidence": "Infrastructure evidence available."
+  },
+  {
+    "utility": "Cooling",
+    "status": "Site-specific evidence",
+    "badge": "amber",
+    "existing": "HIVE 5 central chilled-water plant: 2,440 RT installed cooling capacity.",
+    "planning": "Assess future precinct cooling loads before testing district-cooling or CCHP feasibility.",
+    "confidence": "Verified for HIVE 5 only."
+  },
+  {
+    "utility": "Gas",
+    "status": "To verify / opportunity",
+    "badge": "blue",
+    "existing": "No park-wide existing gas network has been verified from the material reviewed.",
+    "planning": "Gas receiving, biomethane, Cogen/CCHP and future distribution are discussion opportunities, not committed infrastructure.",
+    "confidence": "Existing network status to verify."
+  }
+]

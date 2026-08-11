@@ -1,0 +1,44 @@
+[
+  {
+    "metric": "2026 land area and phase acreage",
+    "value": "492.56 ac total; Phase 1 105.25 ac; Phase 2 185.08 ac; Phase 3 202.23 ac",
+    "source": "MAS Land Detail \u2014 Land Information",
+    "classification": "Verified",
+    "note": "Uses Size (acre) \u2192 Revised Masterplan (2026) only."
+  },
+  {
+    "metric": "Land status acreage",
+    "value": "Developmental 66.23 ac; Tenured Lessee 163.75 ac; Reserve 51.95 ac; Potential (Vacant) 191.08 ac",
+    "source": "MAS Land Detail \u2014 Land Information",
+    "classification": "Verified",
+    "note": "Calculated using Revised Masterplan (2026) acreage."
+  },
+  {
+    "metric": "Park power requirement",
+    "value": "~700 MW",
+    "source": "Gas Malaysia x MRANTI \u2014 Engagement Report, 22 April 2026",
+    "classification": "Working estimate",
+    "note": "Earlier projection was 1,100 MW; owner confirmation required before external use."
+  },
+  {
+    "metric": "HIVE 5 installed cooling capacity",
+    "value": "2,440 RT",
+    "source": "Energy Audit Report at HIVE 5 \u2014 Chiller Equipment, 2025",
+    "classification": "Verified",
+    "note": "HIVE 5 only."
+  },
+  {
+    "metric": "HIVE 5 2024 electricity baseline",
+    "value": "4,636,577 kWh",
+    "source": "Energy Audit Report at HIVE 5 \u2014 Chiller Equipment, 2025",
+    "classification": "Verified",
+    "note": "Baseline stated in audit."
+  },
+  {
+    "metric": "Gas / Cogen / biomethane concepts",
+    "value": "Conceptual",
+    "source": "Gas Malaysia collaboration working materials",
+    "classification": "Concept / Opportunity",
+    "note": "Must not be presented as existing or approved infrastructure."
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "data_basis": "MAS Land Detail \u2014 Revised Masterplan (2026)",
+  "total_land_acres": 492.56,
+  "phases": [
+    {
+      "phase": "Phase 1",
+      "precinct": "Innovation Gateway",
+      "acres": 105.25
+    },
+    {
+      "phase": "Phase 2",
+      "precinct": "Learning & Creative Media",
+      "acres": 185.08
+    },
+    {
+      "phase": "Phase 3",
+      "precinct": "Living Lab",
+      "acres": 202.23
+    }
+  ],
+  "land_status_acres": [
+    {
+      "status": "Developmental (MRANTI)",
+      "acres": 66.23
+    },
+    {
+      "status": "Tenured Lessee",
+      "acres": 163.75
+    },
+    {
+      "status": "Reserve",
+      "acres": 51.95
+    },
+    {
+      "status": "Potential (Vacant)",
+      "acres": 191.08
+    }
+  ],
+  "working_power_demand_mw": 700,
+  "power_demand_status": "Working estimate \u2014 confirm owner before external presentation",
+  "power_demand_previous_mw": 1100,
+  "indicative_development_horizon_years": 3
+}

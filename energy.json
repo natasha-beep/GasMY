@@ -1,0 +1,34 @@
+{
+  "site": "HIVE 5",
+  "scope_note": "Site-specific benchmark only. Do not extrapolate to total MRANTI Park cooling demand.",
+  "installed_cooling_capacity_rt": 2440,
+  "chillers": [
+    {
+      "name": "Chiller 1",
+      "capacity_rt": 800
+    },
+    {
+      "name": "Chiller 2",
+      "capacity_rt": 800
+    },
+    {
+      "name": "Chiller 3",
+      "capacity_rt": 800
+    },
+    {
+      "name": "Chiller 4",
+      "capacity_rt": 400
+    }
+  ],
+  "weekday_design_load_pct": "70\u201385%",
+  "operating_hours": "7:00 AM\u20136:00 PM, weekdays",
+  "electricity_baseline_2024_kwh": 4636577,
+  "average_monthly_kwh": 386381,
+  "electrical_supply": "11 kV \u2192 415 V",
+  "chiller_age_years": 25,
+  "observations": [
+    "Existing BMS is not integrated with operating chillers.",
+    "Chiller sequencing and monitoring rely materially on manual operation.",
+    "No active demand control was identified in the audit."
+  ]
+}
